@@ -1,2 +1,3 @@
 main:
-	sout: Hallo Welt
+	sout: Hallo Welt	
+	sout: Halt die Fresse!!!
